@@ -226,6 +226,16 @@ nav ul li a:hover {
     margin-bottom: 10px;
 }
 
+.devicon {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.tech-item i.devicon {
+    font-size: 2.5rem;
+    vertical-align: middle;
+}
+
 .certificate-link {
     display: inline-block;
     margin-top: 15px;
